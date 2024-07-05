@@ -54,3 +54,14 @@ Below is a simplified example of how to run the scripts:
 python scripts/data_preprocessing.py
 python scripts/thematic_analysis.py
 python scripts/sentiment_analysis.py
+```
+The final output will be saved in output/sentiment_output.txt.
+
+## Contribution
+Feel free to contribute to this project by opening issues or submitting pull requests. Please ensure that your contributions adhere to the project's coding standards and practices.
+
+## License
+This project is licensed under the MIT License. See the `LICENSE file` for details.
+
+## Acknowledgements
+Special thanks to the authors of the resources used for creating the rule-based sentiment analysis algorithm. Further information on rule-based sentiment analysis can be found at: https://vtiya.medium.com/rule-base-sentiment-analysis-adfad898470b.
